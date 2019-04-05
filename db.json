@@ -1,7 +1,10 @@
-[
-  {
-    "_id": "5ca7223c43704e9deaf466dd",
-    "email": "szentklotild@mittudomen.hu",
-    "password": 12345
-  }
-]
+
+{
+  "email": [
+    {
+      "_id": "5ca7223c43704e9deaf466dd",
+	  "email": "szentklotild@mittudomen.hu",
+	   "password": 12345
+    }
+  ]
+}
