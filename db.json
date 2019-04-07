@@ -10,47 +10,47 @@
 
   "menus": [
   {
-    "name": "Casting Calls",
-    "url": "/casting",
+    "name": "Castingok",
+    "url": "/calls",
     "class": "casting"
   },
   {
-    "name": "Extras",
+    "name": "Statiszták",
     "url": "/extras",
     "class": "extras"
   },
   {
-    "name": "Actors",
+    "name": "Színészek",
     "url": "/actors",
     "class": "actors"
   },
   {
-    "name": "Kids, youngs",
+    "name": "Gyerekek",
     "url": "/kids",
     "class": "kids"
   },
   {
-    "name": "Casting Photo",
-    "url": "/photo",
+    "name": "Casting fotózás",
+    "url": "/castingphoto",
     "class": "photo"
   },
   {
-    "name": "For Productions",
-    "url": "/productions",
+    "name": "Produkcióknak",
+    "url": "/forproductions",
     "class": "productions"
   },
   {
-    "name": "About us",
-    "url": "/about",
+    "name": "Mi a ProCasting?",
+    "url": "/aboutus",
     "class": "about"
   },
   {
-    "name": "Dashboard",
-    "url": "/dashboard",
+    "name": "Vezérlőpult",
+    "url": "/dash",
     "class": "dashboard"
   },
   {
-    "name": "Registration",
+    "name": "Regisztráció",
     "url": "/registration",
     "class": "registration"
   }
