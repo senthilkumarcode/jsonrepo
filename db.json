@@ -43,16 +43,6 @@
     "name": "Mi a ProCasting?",
     "url": "/aboutus",
     "class": "about"
-  },
-  {
-    "name": "Vezérlőpult",
-    "url": "/dash",
-    "class": "dashboard"
-  },
-  {
-    "name": "Regisztráció",
-    "url": "/registration",
-    "class": "registration"
   }
 ]
   
