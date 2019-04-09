@@ -3,7 +3,7 @@
   "userinvites": [
     {
       "id": "1234",
-	  "email": "Kovács.Béla@pro.hu",
+	  "email": "kovács.béla@pro.hu",
 	   "fname": "Béla",
      "lname":"Kovács",
      "gender":"Male",
