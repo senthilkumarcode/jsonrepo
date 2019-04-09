@@ -6,14 +6,17 @@
 	  "email": "Kovács.Béla@pro.hu",
 	   "fname": "Béla",
      "lanme":"Kovács",
-     "gender":"Male"
+     "gender":"Male",
+     "mode":"invite"
+
     },
     {
      "id": "5678",
     "email": "szentklotild@mittudomen.hu",
      "fname": "",
      "lanme":"Szentklotild",
-     "gender":"Male"
+     "gender":"Male",
+     "mode":"invite"
     }
 
   ],
