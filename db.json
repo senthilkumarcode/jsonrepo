@@ -6,8 +6,7 @@
 	  "email": "k.b@pro.hu",
 	   "fname": "Béla",
      "lname":"Kovács",
-     "gender":"Male",
-     "mode":"invite"
+     "gender":"Male"
 
     },
     {
@@ -15,8 +14,7 @@
     "email": "test@test.hu",
      "fname": "test5",
      "lname":"test6",
-     "gender":"Female",
-     "mode":"invite"
+     "gender":"Female"
     }
   ],
 
