@@ -7,7 +7,15 @@
 	   "fname": "Béla",
      "lanme":"Kovács",
      "gender":"Male"
+    },
+    {
+      "_id": "5678",
+    "email": "szentklotild@mittudomen.hu",
+     "fname": "",
+     "lanme":"Szentklotild",
+     "gender":"Male"
     }
+
   ],
 
   "menus": [
