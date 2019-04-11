@@ -1,6 +1,17 @@
 
 {
 
+  "authenticatedUser": [
+    {
+      "id": "9876",
+      "email": "pro@pro.hu",
+      "password": "123456",
+     "fname": "John",
+     "lname":"Doe",
+     "gender":"Male"
+    }
+  ],
+
   "userinvites": [
     {
       "id": "1234",
