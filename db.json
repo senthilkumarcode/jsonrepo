@@ -6,15 +6,17 @@
 	  "email": "pro2@pro.hu",
 	   "fname": "Béla",
      "lname":"Kovács",
-     "gender":"Male"
+     "gender":"Male",
+     "mode":"Invite"
 
     },
     {
-     "id": "5678",
-    "email": "test@test.hu",
-     "fname": "test5",
-     "lname":"test6",
-     "gender":"Female"
+      "id": "5678",
+    "email": "pro2@pro.hu",
+     "fname": "Béla",
+     "lname":"Kovács",
+     "gender":"Male",
+     "mode":"Activate"
     }
   ],
 
