@@ -1,5 +1,6 @@
 
 {
+
   "userinvites": [
     {
       "id": "1234",
@@ -9,14 +10,18 @@
      "gender":"Male",
      "mode":"Invite"
 
-    },
+    }
+  ],
+
+  "useractivates": [
     {
       "id": "5678",
     "email": "pro2@pro.hu",
      "fname": "Béla",
      "lname":"Kovács",
      "gender":"Male",
-     "mode":"Activate"
+     "mode":"Invite"
+
     }
   ],
 
