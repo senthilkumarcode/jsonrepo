@@ -1,77 +1,61 @@
-
 {
 
-  "authenticatedUser": [
-    {
-      "id": "9876",
+  "user": [{
       "email": "pro@pro.hu",
-      "password": "123456",
-     "fname": "John",
-     "lname":"Doe",
-     "gender":"Male"
-    }
-  ],
-
-  "userinvites": [
+      "fname": "John",
+      "lname": "Doe",
+      "gender": "Male"
+    },
     {
-      "id": "1234",
-	  "email": "pro2@pro.hu",
-	   "fname": "Béla",
-     "lname":"Kovács",
-     "gender":"Male",
-     "mode":"Invite"
-
-    }
-  ],
-
-  "useractivates": [
+      "email": "pro1@pro.hu",
+      "fname": "Béla",
+      "lname": "Kovács",
+      "gender": "Male"
+    },
     {
-      "id": "5678",
-    "email": "pro2@pro.hu",
-     "fname": "Béla",
-     "lname":"Kovács",
-     "gender":"Male",
-     "mode":"Activate"
-
+      "email": "pro2@pro.hu",
+      "fname": "Béla",
+      "lname": "Kovács",
+      "gender": "Male"
     }
   ],
 
-  "menus": [
-  {
-    "name": "Castingok",
-    "url": "/calls",
-    "class": "casting"
-  },
-  {
-    "name": "Statiszták",
-    "url": "/extras",
-    "class": "extras"
-  },
-  {
-    "name": "Színészek",
-    "url": "/actors",
-    "class": "actors"
-  },
-  {
-    "name": "Gyerekek",
-    "url": "/kids",
-    "class": "kids"
-  },
-  {
-    "name": "Casting fotózás",
-    "url": "/castingphoto",
-    "class": "photo"
-  },
-  {
-    "name": "Produkcióknak",
-    "url": "/forproductions",
-    "class": "productions"
-  },
-  {
-    "name": "Mi a ProCasting?",
-    "url": "/aboutus",
-    "class": "about"
-  }
-]
-  
+  "menus": [{
+      "name": "Castingok",
+      "url": "/calls",
+      "class": "casting"
+    },
+    {
+      "name": "Statiszták",
+      "url": "/extras",
+      "class": "extras"
+    },
+    {
+      "name": "Színészek",
+      "url": "/actors",
+      "class": "actors"
+    },
+    {
+      "name": "Gyerekek",
+      "url": "/kids",
+      "class": "kids"
+    },
+    {
+      "name": "Casting fotózás",
+      "url": "/castingphoto",
+      "class": "photo"
+    },
+    {
+      "name": "Produkcióknak",
+      "url": "/forproductions",
+      "class": "productions"
+    },
+    {
+      "name": "Mi a ProCasting?",
+      "url": "/aboutus",
+      "class": "about"
+    }
+  ]
+
+
 }
