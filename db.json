@@ -1,22 +1,31 @@
 {
 
   "user": [{
+      "id": "6DtYJur93eqxBYTYN9Ha",
       "email": "pro@pro.hu",
       "fname": "John",
       "lname": "Doe",
-      "gender": "Male"
+      "gender": "Male",
+      "active":"true",
+      "gdpr":"true",
     },
     {
+      "id": "xPemfT5GgqhKKEozYiVU",
       "email": "pro1@pro.hu",
       "fname": "Béla",
       "lname": "Kovács",
-      "gender": "Male"
+      "gender": "Male",
+      "active":"true",
+      "gdpr":"false",
     },
     {
+      "id": "3ohuU5WPwECFf2Yr2Y7y",
       "email": "pro2@pro.hu",
       "fname": "Béla",
       "lname": "Kovács",
-      "gender": "Male"
+      "gender": "Male",
+      "active":"false",
+      "gdpr":"false",
     }
   ],
 
