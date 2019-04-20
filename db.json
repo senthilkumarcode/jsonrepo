@@ -11,7 +11,7 @@
     },
     {
       "id": "xPemfT5GgqhKKEozYiVU",
-      "email": "pro1@pro.hu",
+      "email": "pro@pro.hu",
       "fname": "Béla",
       "lname": "Kovács",
       "gender": "Male",
@@ -28,7 +28,23 @@
       "gdpr":false
     }
   ],
-
+  "userAuth": [
+    {
+      "id": "6DtYJur93eqxBYTYN9Ha",
+      "email": "pro@pro.hu",
+      "password": "123456"
+    },
+    {
+      "id": "xPemfT5GgqhKKEozYiVU",
+      "email": "pro1@pro.hu",
+      "password": "567890"
+    },
+    {
+      "id": "3ohuU5WPwECFf2Yr2Y7y",
+      "email": "pro1@pro.hu",
+      "password": "515151"
+    }
+],
   "menus": [{
       "name": "Castingok",
       "url": "/calls",
