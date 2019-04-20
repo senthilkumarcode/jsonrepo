@@ -6,8 +6,8 @@
       "fname": "John",
       "lname": "Doe",
       "gender": "Male",
-      "active":"true",
-      "gdpr":"true",
+      "active":true,
+      "gdpr":true
     },
     {
       "id": "xPemfT5GgqhKKEozYiVU",
@@ -15,8 +15,8 @@
       "fname": "Béla",
       "lname": "Kovács",
       "gender": "Male",
-      "active":"true",
-      "gdpr":"false",
+      "active":true,
+      "gdpr":false
     },
     {
       "id": "3ohuU5WPwECFf2Yr2Y7y",
@@ -24,8 +24,8 @@
       "fname": "Béla",
       "lname": "Kovács",
       "gender": "Male",
-      "active":"false",
-      "gdpr":"false",
+      "active":false,
+      "gdpr":false
     }
   ],
 
