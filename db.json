@@ -28,7 +28,7 @@
       "gdpr":false
     }
   ],
-  "userAuth": [
+  "userLogin": [
     {
       "id": "6DtYJur93eqxBYTYN9Ha",
       "email": "pro@pro.hu",
