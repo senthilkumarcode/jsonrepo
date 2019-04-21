@@ -7,7 +7,12 @@
       "lname": "Doe",
       "gender": "Male",
       "active":true,
-      "gdpr":true
+      "gdpr":true,
+      "regisDetails": {
+        "dimensions":true,
+        "photoupload":true,
+        "personaldetails":false,
+      }
     },
     {
       "id": "xPemfT5GgqhKKEozYiVU",
