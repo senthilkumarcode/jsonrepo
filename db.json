@@ -10,7 +10,7 @@
       "gdpr":true,
       "regisDetails": {
         "dimensions":"completed",
-        "photoupload":"pending",
+        "photoupload":"inprogress",
         "personaldetails":"pending",
         "apply":"pending"
       }
