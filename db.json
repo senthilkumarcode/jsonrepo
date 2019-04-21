@@ -9,8 +9,8 @@
       "active":true,
       "gdpr":true,
       "regisDetails": {
-        "dimensions":true,
-        "photoupload":true,
+        "dimensions":false,
+        "photoupload":false,
         "personaldetails":false,
         "apply":false
       }
