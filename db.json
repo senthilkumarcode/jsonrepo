@@ -9,10 +9,10 @@
       "active":true,
       "gdpr":true,
       "regisDetails": {
-        "dimensions":false,
-        "photoupload":false,
-        "personaldetails":false,
-        "apply":false
+        "dimensions":"completed",
+        "photoupload":"pending",
+        "personaldetails":"pending",
+        "apply":"pending"
       }
     },
     {
@@ -22,7 +22,13 @@
       "lname": "Kovács",
       "gender": "Male",
       "active":true,
-      "gdpr":false
+      "gdpr":false,
+      "regisDetails": {
+        "dimensions":"pending",
+        "photoupload":"pending",
+        "personaldetails":"pending",
+        "apply":"pending"
+      }
     },
     {
       "id": "3ohuU5WPwECFf2Yr2Y7y",
