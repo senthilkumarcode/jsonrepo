@@ -11,7 +11,8 @@
       "regisDetails": {
         "dimensions":true,
         "photoupload":true,
-        "personaldetails":false
+        "personaldetails":false,
+        "apply":false
       }
     },
     {
