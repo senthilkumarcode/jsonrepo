@@ -37,7 +37,13 @@
       "lname": "Kovács",
       "gender": "Male",
       "active":false,
-      "gdpr":false
+      "gdpr":false,
+      "regisDetails": {
+        "dimensions":"pending",
+        "photoupload":"pending",
+        "personaldetails":"pending",
+        "apply":"pending"
+      }
     }
   ],
   "userLogin": [
