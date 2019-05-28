@@ -8,6 +8,7 @@
       "gender": "Male",
       "active": true,
       "gdpr": true,
+      "registrationType":1,
       "regisDetails": {
         "dimensions": "completed",
         "photoupload": "inprogress",
@@ -23,6 +24,7 @@
       "gender": "Male",
       "active": true,
       "gdpr": false,
+      "registrationType":1,
       "regisDetails": {
         "dimensions": "pending",
         "photoupload": "pending",
@@ -38,6 +40,7 @@
       "gender": "Male",
       "active": false,
       "gdpr": false,
+      "registrationType":1,
       "regisDetails": {
         "dimensions": "pending",
         "photoupload": "pending",
